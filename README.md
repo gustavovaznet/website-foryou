@@ -1,6 +1,9 @@
-# Foryou
-This website was developed to promote Foryou, a language learning app. Do you wanna know more about it?
-Check it out clicking on the linke below:
+# Foryou Website
+This website was developed to promote Foryou, a language learning app.
+
+Do you wanna know more about it?
+
+Click the link below and check it out! <br>
 https://github.com/gustavovaznet/app-foryou
 
 ## Screenshots
